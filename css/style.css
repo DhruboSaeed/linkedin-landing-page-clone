@@ -78,9 +78,12 @@
 
 .nav-span-color{
   color: rgb(0 0 0 / 60%);
-  margin-top: 5px;
+
 }
 
+.mT5{
+  margin-top: 5px;
+}
 
 /* Nav Bar section */
 
